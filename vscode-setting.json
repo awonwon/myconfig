@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 0,
+    "search.useIgnoreFiles": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontSize": 16,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "php.suggest.basic": false,
+    "php.executablePath": "C:\\php\\php.exe",
+    "search.smartCase": true,
+    "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+    "files.eol": "\n",
+    "window.openFilesInNewWindow": "on",
+    "workbench.editor.enablePreview": false,
+    "files.trimFinalNewlines": true,
+    "editor.tabCompletion": "on"
+}
